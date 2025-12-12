@@ -1,0 +1,5 @@
+
+# Claude Wrapper Bootstrap
+.claude/
+agents/
+logs/
